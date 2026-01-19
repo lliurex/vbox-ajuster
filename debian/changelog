@@ -1,3 +1,9 @@
+vbox-ajuster (1.1.0) noble; urgency=medium
+
+  * Added llx-vbox-config pkg
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 19 Jan 2026 10:32:47 +0100
+
 cdc-mapper-vboxusers (1.0.1) noble; urgency=medium
 
   * Changed to restar cdc-mapper.server after installation/desinstallation
